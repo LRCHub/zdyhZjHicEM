@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "曖歌",
+  "base_artist": "Shounanno Kaze",
+  "createdAt": "2025-12-23T14:44:22.205742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曖歌 - Aiuta",
+      "artist": "Shounan no Kaze",
+      "has_synced": true,
+      "path": "select/01_曖歌_-_Aiuta_Shounan_no_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曖歌 - Aiuta",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/02_曖歌_-_Aiuta_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曖歌",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/03_曖歌_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曖歌 (Live at 横浜スタジアム / 2013.08.10)",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/04_曖歌_(Live_at_横浜スタジアム___2013.08.10)_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曖歌",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/05_曖歌_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_01_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_02_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_03_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_04_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_05_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_06_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "曖歌",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_07_曖歌_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "曖歌 -Acoustic Ver.-",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_08_曖歌_-Acoustic_Ver.-_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "曖歌 -Acoustic Ver.-",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_09_曖歌_-Acoustic_Ver.-_湘南乃風.txt"
+    }
+  ]
+}
